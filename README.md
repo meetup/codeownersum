@@ -1,4 +1,4 @@
-# codeownersum
+# codeownersum [![](https://github.com/meetup/ownersum/workflows/Main/badge.svg)](https://github.com/meetup/ownersumr/actions)
 
 A simple command line utility to sum up code ownership in a GitHub code repository
 
